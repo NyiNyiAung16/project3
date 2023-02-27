@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://bit.ly/3Sulyoi);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+}
+
+.text {
+    color: rgb(120, 240, 93);
+}
+
